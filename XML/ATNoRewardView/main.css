@@ -1,0 +1,46 @@
+@CHARSET "GB18030";
+
+#main
+{
+	position:relative;
+	border:1px solid #000;
+	left:20px;
+	top:20px;
+	width:320px;
+	height:568px;
+}
+
+#giftImageView
+{
+position:relative;
+left:115px;
+top:64px;
+width:91.5px;
+height:91.5px;
+}
+
+#rewardLabel
+{
+	position:relative;
+left:0px;
+top:189.5px;
+width:320px;
+height:100px;
+text-align:center
+}
+
+#inviteButton
+{
+position:relative;
+left:70px;
+top:270px;
+width:180px;
+height:50px;
+background-color:#fff;
+background-image:url(image/reward_none_bn.png);
+background-size:180px 50px;
+border:0px;
+font-family:HelveticaNeue-light;
+font-size:14px;
+color:#ffffff;
+}
